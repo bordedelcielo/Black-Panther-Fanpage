@@ -9,3 +9,12 @@ h1{
     width:50%;
     margin-left:350px
 }
+
+body{
+    display:flex;
+    background-color: blue;
+}
+
+.spinner{
+    margin:auto
+}
