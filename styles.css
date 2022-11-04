@@ -1,4 +1,14 @@
+body{
+    background-image: url("images/mcdblpa_ec092-1-2.jpg");
+    background-repeat: no-repeat;
+    background-color: black;
+    display:flex;
+    background-color: blue;
+}
+
 h1{
+    color: aliceblue;
+    text-align: center;
     font-size:larger;
     text-align:center;
     padding:10px;
@@ -8,11 +18,6 @@ h1{
 .panther{
     width:50%;
     margin-left:350px
-}
-
-body{
-    display:flex;
-    background-color: blue;
 }
 
 .spinner{
