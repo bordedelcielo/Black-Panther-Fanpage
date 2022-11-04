@@ -45,3 +45,29 @@
     font-style: italic;
     font-size: small;
   }
+  
+body{
+    background-image: url("images/mcdblpa_ec092-1-2.jpg");
+    background-repeat: no-repeat;
+    background-color: black;
+    display:flex;
+    background-color: blue;
+}
+
+h1{
+    color: aliceblue;
+    text-align: center;
+    font-size:larger;
+    text-align:center;
+    padding:10px;
+    color:red
+}
+
+.panther{
+    width:50%;
+    margin-left:350px
+}
+
+.spinner{
+    margin:auto
+}
